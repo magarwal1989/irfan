@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MTV]">
+  <test name="First(failed)">
+    <classes>
+      <class name="Steps.CatFishTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="catfishtest"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- Steps.CatFishTest -->
+    </classes>
+  </test> <!-- First(failed) -->
+</suite> <!-- Failed suite [MTV] -->

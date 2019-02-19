@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MTV" duration-ms="29378" started-at="2019-02-19T16:23:02Z" finished-at="2019-02-19T16:23:32Z">
+    <groups>
+    </groups>
+    <test name="First" duration-ms="29378" started-at="2019-02-19T16:23:02Z" finished-at="2019-02-19T16:23:32Z">
+      <class name="Steps.CatFishTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Steps.CatFishTest@13b6d03]" name="launchBrowser" is-config="true" duration-ms="17394" started-at="2019-02-19T21:53:02Z" finished-at="2019-02-19T21:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="catfishtest()[pri:0, instance:Steps.CatFishTest@13b6d03]" name="catfishtest" duration-ms="11947" started-at="2019-02-19T21:53:20Z" finished-at="2019-02-19T21:53:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- catfishtest -->
+      </class> <!-- Steps.CatFishTest -->
+    </test> <!-- First -->
+  </suite> <!-- MTV -->
+</testng-results>
